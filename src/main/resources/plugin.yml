@@ -1,6 +1,6 @@
 name: WirelessRedstone
 version: '${project.version}'
-main: me.zatozalez.wirelessredstone.WirelessRedstone
+main: xyz.pixelsky.wirelessredstone.WirelessRedstone
 api-version: 1.16
 authors: [ ZatoZalez ]
 description: Plugin for Wireless Redstone.
