@@ -1,6 +1,6 @@
 package xyz.pixelsky.wirelessredstone.Utils;
 
-import me.zatozalez.wirelessredstone.Redstone.*;
+import xyz.pixelsky.wirelessredstone.Redstone.*;
 import org.bukkit.block.Block;
 import org.bukkit.inventory.ItemStack;
 import xyz.pixelsky.wirelessredstone.Redstone.*;

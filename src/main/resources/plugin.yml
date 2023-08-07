@@ -2,9 +2,9 @@ name: WirelessRedstone
 version: '${project.version}'
 main: xyz.pixelsky.wirelessredstone.WirelessRedstone
 api-version: 1.16
-authors: [ ZatoZalez ]
+authors: [ pixelsky ]
 description: Plugin for Wireless Redstone.
-website: https://discord.gg/TsRTa7BUWm
+website: https://pixelsky.xyz/
 
 commands:
   device:

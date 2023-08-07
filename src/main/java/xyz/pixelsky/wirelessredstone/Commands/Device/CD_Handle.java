@@ -3,7 +3,7 @@ package xyz.pixelsky.wirelessredstone.Commands.Device;
 import xyz.pixelsky.wirelessredstone.Config.C_Value;
 import xyz.pixelsky.wirelessredstone.Events.E_DeviceClick;
 import xyz.pixelsky.wirelessredstone.Messages.M_Utility;
-import me.zatozalez.wirelessredstone.Redstone.*;
+import xyz.pixelsky.wirelessredstone.Redstone.*;
 import xyz.pixelsky.wirelessredstone.Utils.U_Permissions;
 import org.bukkit.Bukkit;
 import org.bukkit.entity.Player;
